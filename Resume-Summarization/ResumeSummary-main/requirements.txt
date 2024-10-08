@@ -1,0 +1,14 @@
+fastapi>=0.108.0
+uvicorn>=0.25.0
+gunicorn>=20.1.0
+torch>=2.4.0
+boto3>=1.34.146
+botocore>=1.34.146
+httpx>=0.27.0
+PyPDF2>=3.0.1
+google-generativeai>=0.7.2
+python-dotenv>=1.0.1
+spacy>=3.7.5
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz#egg=en_core_web_sm
+pymongo >= 4.8.0
+
