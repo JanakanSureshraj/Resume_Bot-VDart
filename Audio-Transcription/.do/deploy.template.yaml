@@ -1,8 +1,0 @@
-spec:
- name: digital-ocean-fast-api
- services:
- - name: web
-   git:
-     branch: main
-     repo_clone_url: https://github.com/keshavgoel787/AudioTranscription
-     
