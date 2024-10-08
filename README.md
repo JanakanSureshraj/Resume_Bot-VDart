@@ -1,1 +1,1 @@
-A Digital Ocean integrated LLM that utilizes MongoDB, Gemini, DO, and AWS services. 
+This project is aimed at automating components to revolutionize the hiring process of the company. 
