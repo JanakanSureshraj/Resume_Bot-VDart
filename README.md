@@ -1,4 +1,4 @@
-This project is aimed at automating specific components to automate the hiring process of the company. 
+This project is aimed at automating specific components to revolutionize the hiring process of the company. 
 
 ## Audio Transcription Component
 Built using FastAPI and leverages the WhisperX library, an enhanced speech-to-text model based on OpenAI's Whisper, for accurate audio transcription. The application is designed to handle file uploads, save them temporarily using Python’s os module, and perform real-time transcription using PyTorch (torch) on a GPU (cuda) or CPU, depending on availability. The model operates in "int8" precision mode for optimized memory usage, and the transcribed text is returned in a structured JSON format. The API features include file handling, error management, and auto-generated documentation through FastAPI’s Swagger UI (/docs - allowing users to interact with the API and test the endpoints). The entire setup ensures efficient transcription with minimal resource usage and is ideal for automating audio-to-text tasks in large-scale applications.
